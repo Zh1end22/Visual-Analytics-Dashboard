@@ -30,5 +30,6 @@ Empowers users to filter data based on various criteria, enhancing dashboard int
 4. Connect the dashboard to your dataset or substitute the existing dataset with your own.
 5. Engage with the visuals, slicers, and question-answer visual to explore data insights.
 
-**Preview**
+**Preview**  
+
 ![image](https://github.com/Zh1end22/Visual-Analytics-Dashboard/assets/121251852/13812fad-0371-4fff-b86a-7379e762f2cf)
